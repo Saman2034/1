@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/xiZxCJ84')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Saman2034/1/main/shpr.txt')))()
 local Window = OrionLib:MakeWindow({Name = "Kurd hub", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 local Tab = Window:MakeTab({
