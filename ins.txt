@@ -14,7 +14,7 @@ function setDisplayDistance(distance)
     end
 end
 local tool = Instance.new("Tool", game.Players.LocalPlayer.Backpack)
-tool.Name = "Invisible"
+tool.Name = "خوشاردنەوە"
 tool.RequiresHandle = false
 tool.CanBeDropped = false
 tool.Equipped:Connect(
